@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RationalTester()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ RationalTester\n
+comment1.params=
+comment1.target=void\ additionTest()
+comment1.text=\n\ \n\ \ Addition\ test\n\ \ \n\ \ Tests\ the\ Rational\ class\ add(r)\ method\n\ \n
+comment2.params=
+comment2.target=void\ multiplicationTest()
+comment2.text=\n\ \n\ \ Multiplication\ test\n\ \ \n\ \ Tests\ the\ Rational\ class\ multiply(r)\ method\n\ \n
+comment3.params=
+comment3.target=void\ divisionTest()
+comment3.text=\n\ \n\ \ Division\ test\n\ \ \n\ \ Tests\ the\ Rational\ class\ divide(r)\ method\n\ \n
+comment4.params=
+comment4.target=void\ subtractionTest()
+comment4.text=\n\ \n\ \ Subtraction\ test\n\ \ \n\ \ Tests\ the\ Rational\ class\ subtract(r)\ method\n\ \n
+comment5.params=
+comment5.target=void\ runAllTests()
+comment5.text=\n\ \ \ Runs\ all\ tests\ sequentially\n
+comment6.params=
+comment6.target=void\ testUserInput()
+comment6.text=\n\ \ Gets\ user\ input\ for\ individual\ test\n\ \ \n
+numComments=7

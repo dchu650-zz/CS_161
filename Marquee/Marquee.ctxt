@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Marquee()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Marquee\n
+comment1.params=
+comment1.target=void\ setText()
+comment1.text=\n\ Takes\ input\ to\ set\ the\ text\ \n
+comment2.params=x\ y
+comment2.target=void\ setPosition(int,\ int)
+comment2.text=\n\ Sets\ the\ initial\ position\ of\ the\ text\ \ \n
+comment3.params=newFont
+comment3.target=void\ setFont(java.awt.Font)
+comment3.text=\n\ Set\ the\ font\ for\ displaying\ the\ text\ \n
+comment4.params=newSpeed
+comment4.target=void\ setSpeed(int)
+comment4.text=\n\ Sets\ the\ speed\ of\ scrolling\n
+comment5.params=time
+comment5.target=void\ scrollHorizontal(int)
+comment5.text=\n\ Scroll\ the\ text\ horizontally\ for\ the\ specified\ amount\ of\ time\ unit\ \n
+comment6.params=time
+comment6.target=void\ scrollVertical(int)
+comment6.text=\n\ Scroll\ the\ text\ vertically\ for\ the\ specified\ amount\ of\ time\ unit\ \n
+numComments=7

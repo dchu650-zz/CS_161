@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PlatformMan()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ MarioLand\n
+comment1.params=turns
+comment1.target=void\ animate(int)
+comment1.text=\n\ The\ animation\ method\ moves\ all\ of\ the\ objects\ on\ the\ canvas.\n\ It\ is\ responisble\ for\ managing\ object\ interation,\ explaining\n\ the\ rules\ of\ the\ game\ to\ the\ player,\ providing\ a\ win\ condition,\n\ and\ managing\ the\ canvas\ so\ that\ the\ animation\ runs\ as\ smoothly\n\ as\ possible.\n\ @param\ The\ number\ of\ times\ the\ animation\ method\ is\ invoked\n
+comment2.params=
+comment2.target=void\ drawObjects()
+comment2.text=\n\ Draws\ each\ of\ the\ objects\ in\ the\ game\ on\ the\ canvas\n
+comment3.params=
+comment3.target=void\ resetGame()
+comment3.text=\n\ Resets\ all\ the\ variables\ to\ their\ default\ values.\ Used\ when\ reseting\ the\ game\ after\n\ defeat\ or\ victory\n
+numComments=4

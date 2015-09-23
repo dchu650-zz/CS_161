@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Goomba()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Goomba\n
+comment1.params=canvas
+comment1.target=void\ draw(Canvas)
+comment1.text=\n\ Draw\ method\ for\ the\ Goomba\n\ @param\ A\ canvas\n
+comment2.params=
+comment2.target=void\ drive()
+comment2.text=\n\ Allows\ the\ goomba\ to\ move\ acorss\ the\ screen.\ This\ method\n\ Is\ called\ in\ the\ animate\ class\ in\ Marioland\n\ \n\ @param\n\ @return\n
+comment3.params=canvas
+comment3.target=void\ erase(Canvas)
+comment3.text=\nErases\ the\ canvas.\ \n\ \n\ @param\ Canvas\ parameter,\ erases\ the\ canvas\ it\ is\ given\ as\ a\ parameter\n\ @return\n
+comment4.params=
+comment4.target=void\ turn()
+comment4.text=\n\ Makes\ facing\ right\ true\ or\ false\ depending\ on\ if\ the\ goomba\n\ needs\ to\ move\ left\ or\ right\n\ \n\ @param\n
+numComments=5

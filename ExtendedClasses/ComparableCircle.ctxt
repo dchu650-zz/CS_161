@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ComparableCircle()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ComparableCircle\n
+comment1.params=circle2
+comment1.target=int\ compareTo(ComparableCircle)
+comment1.text=\n\ Compares\ the\ diameters\ of\ two\ circle\ objects\n\ @return\ \ the\ diameter\ of\ the\ circles\n
+numComments=2

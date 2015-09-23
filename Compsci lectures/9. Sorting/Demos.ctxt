@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ selectionSort()
+comment0.text=\n\ Selection\ Sort\ the\ nums\n
+comment1.params=
+comment1.target=void\ insertionSort()
+comment1.text=\n\ Insertion\ Sort\ the\ nums\n
+comment2.params=size
+comment2.target=int[]\ fillNums(int)
+comment2.text=\n\ Fill\ the\ array\ of\ nums\ with\ something\ random\n
+comment3.params=nums
+comment3.target=void\ printNums(int[])
+comment3.text=\n\ Print\ the\ array\ of\ numbers\ (all\ on\ one\ line,\ comma\ separated)\n
+numComments=4

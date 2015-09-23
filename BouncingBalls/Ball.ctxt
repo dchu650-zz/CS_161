@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ball()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ BouncingBall\n
+comment1.params=
+comment1.target=void\ move()
+comment1.text=\n\ Method\ to\ move\ the\ ball\n
+comment2.params=c
+comment2.target=void\ setColor(java.lang.String)
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=\n\ Draw\ the\ ball\ with\ current\ specifications\ on\ screen.\n
+comment4.params=
+comment4.target=void\ erase()
+comment4.text=\n\ Erase\ the\ ball\ on\ screen.\n
+numComments=5

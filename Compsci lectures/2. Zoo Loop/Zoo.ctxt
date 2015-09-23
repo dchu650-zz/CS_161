@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Zoo()
+comment0.text=\n\ Makes\ a\ new\ zoo\ object\n
+comment1.params=
+comment1.target=void\ randomAnimal()
+comment1.text=\n\ Prints\ a\ random\ animal\ from\ the\ zoo\n
+comment2.params=
+comment2.target=void\ printEachAnimal()
+comment2.text=\n\ Prints\ each\ animal\ in\ the\ zoo\n
+comment3.params=
+comment3.target=void\ petEachAnimal()
+comment3.text=\n\ Pets\ each\ animal\ in\ the\ zoo\n
+comment4.params=
+comment4.target=void\ petCorgiesAlot()
+comment4.text=\n\ Pets\ the\ corgies\ in\ the\ zoo\ repeatedly\n
+comment5.params=
+comment5.target=void\ hybridizeAnimals()
+comment6.params=
+comment6.target=void\ printNumberedList()
+numComments=7

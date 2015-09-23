@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LongRoad()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ LongRoad\n
+comment1.params=turns
+comment1.target=void\ animate(int)
+comment1.text=\n\ Moves\ all\ of\ the\ objects\n\ @param\ The\ number\ of\ pixels\ it\ moves\n
+comment2.params=
+comment2.target=void\ redraw()
+comment2.text=\n\ Draws\ all\ the\ objects\ onto\ the\ canvas.\n
+numComments=3

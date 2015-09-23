@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HangmanGame()
+comment0.text=\n\ Creates\ a\ new\ HangmanGame\ object--basicaly\ a\ wordlist\ that\ can\ be\ used\ to\ start\ a\ new\ game.\n
+comment1.params=debugWord
+comment1.target=HangmanGame(java.lang.String)
+comment1.text=\n\ Creates\ a\ new\ HangmanGame\ object,\ with\ the\ wordlist\ containing\ only\ the\ given\ debugWord.\ This\ enables\ testing\ of\ the\ game\ using\ a\ known\ word.\n\ @param\ debugWord\ The\ single\ word\ in\ the\ wordlist,\ used\ for\ testing\ and\ debugging\n
+comment2.params=
+comment2.target=void\ setupGame()
+comment2.text=\n\ A\ helper\ method\ (that\ could\ be\ private)\ which\ re-initializes\ variables\ for\ the\ start\ of\ a\ new\ game.\n\ Resets\ the\ word\ to\ guess,\ the\ current\ letters\ guessed,\ the\ number\ of\ lives,\ etc.\n
+comment3.params=
+comment3.target=void\ playGame()
+comment3.text=\n\ A\ method\ that\ plays\ a\ complete\ game\ of\ Hangman.\ Method\ ends\ when\ the\ game\ has\ been\ either\ won\ or\ lost.\n
+comment4.params=
+comment4.target=java.lang.String\ currentGuessString()
+comment4.text=\n\ A\ helper\ method\ (that\ could\ be\ private)\ that\ returns\ a\ String\ representation\ of\ the\ current\ guess\ state.\n\ For\ example\:\ "g\ _\ e\ _\ _"\ for\ the\ word\ "guess"\ if\ the\ letters\ 'g'\ and\ 'e'\ have\ been\ guessed.\n\ \n\ @return\ A\ String\ displaying\ the\ current\ guess\ of\ the\ word.\ Has\ the\ form\ "g\ _\ e\ _\ _\ ".\n
+comment5.params=
+comment5.target=char\ getGuess()
+comment5.text=\n\ A\ helper\ method\ (that\ could\ be\ private)\ that\ prompts\ the\ user\ to\ provide\ a\ guessed\ letter.\ This\ method\ converts\ any\ guesses\ into\ a\ single,\ lower-case\ character.\n\ \n\ @return\ a\ single,\ lower-case\ char\ that\ the\ player\ guessed\n
+comment6.params=letter
+comment6.target=boolean\ checkGuess(char)
+comment6.text=\n\ A\ helper\ method\ (that\ could\ be\ private)\ that\ checks\ to\ see\ if\ a\ given\ letter\ is\ present\ in\ the\ target\ word.\ \n\ If\ so,\ all\ instances\ of\ that\ letter\ in\ the\ target\ word\ are\ revealed.\n\ \n\ @param\ letter\ the\ letter\ being\ guessed\n\ @return\ whether\ or\ not\ the\ letter\ was\ found\ in\ the\ word\n
+comment7.params=letter
+comment7.target=boolean\ hasLetter(char)
+comment8.params=letter
+comment8.target=void\ switchLetter(char)
+numComments=9

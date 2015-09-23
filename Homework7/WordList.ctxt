@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=WordList(java.lang.String)
+comment0.text=\n\ Creates\ a\ new\ word\ list\ from\ the\ given\ file\n
+comment1.params=
+comment1.target=WordList()
+comment1.text=\n\ Creates\ a\ new\ word\ list\ from\ the\ default\ file\ ("words1500.txt");\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getWords()
+comment2.text=\n\ Gets\ the\ words\ from\ the\ WordList\n\ \n\ @return\ an\ ArrayList\ of\ the\ words\ (each\ represented\ as\ a\ String)\n
+numComments=3

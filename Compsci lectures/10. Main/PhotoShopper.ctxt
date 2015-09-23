@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=im
+comment0.target=PhotoShopper(java.awt.image.BufferedImage)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ PhotoShopper.\n\ @param\ im\ the\ BufferedImage\ to\ view\n
+comment1.params=
+comment1.target=java.awt.image.BufferedImage\ getImage()
+comment1.text=\n\ Simply\ return\ this\ image.\n\ @return\ the\ image\ \n
+comment2.params=
+comment2.target=java.awt.image.BufferedImage\ eraseImage()
+comment2.text=\n\ Erase\ the\ image.\n\ @return\ the\ image\ erased\ (i.e.\ all\ white\ pixels)\n
+comment3.params=
+comment3.target=java.awt.image.BufferedImage\ mirrorImage()
+comment3.text=\n\ Create\ a\ mirror\ image\ of\ the\ current\ image.\n\ @return\ the\ mirror\ image\ of\ the\ image\n
+comment4.params=
+comment4.target=java.awt.image.BufferedImage\ upsideDownImage()
+comment4.text=\n\ Create\ an\ upside\ down\ image\ of\ the\ current\ image.\n\ @return\ the\ image\ turned\ upside\ down\n
+comment5.params=
+comment5.target=java.awt.image.BufferedImage\ undo()
+comment5.text=\n\ Revert\ to\ old\ image.\n\ @return\ previous\ version\ of\ the\ image,\ can\ be\ null\ if\ there\ is\ no\ previous\ version\ (only\ one\ level\ of\ undo\ allowed)\n
+comment6.params=
+comment6.target=java.awt.image.BufferedImage\ grayScaleImage()
+comment6.text=\n\ Turn\ the\ image\ into\ its\ grayscale\ version.\n\ @return\ the\ image\ converted\ to\ grayscale\n
+comment7.params=
+comment7.target=java.awt.image.BufferedImage\ negativeImage()
+comment7.text=\n\ Turn\ the\ image\ into\ its\ negative.\n\ @return\ the\ negative\ of\ this\ Image\n
+numComments=8

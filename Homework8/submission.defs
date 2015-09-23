@@ -1,0 +1,24 @@
+CS161_A_F12
+{	
+  Hwk8
+	{
+		.transport=http://babbage.pugetsound.edu/azshahriar/acceptFiles.php?identity=<field:Username=username>&pwd=<password:Super Secret Code>&folder=<title>;
+		.file.include=LongRoad.java, Vehicle.java, Car.java, Truck.java, Batmobile.java, ImageUtils.java, LongRoadTester.java;
+	}
+}
+CS161_B_F12
+{    
+	Hwk8
+	{
+		.transport=http://babbage.pugetsound.edu/jross/161b/acceptFiles.php?identity=<field:Username=username>&pwd=<password:Super Secret Code>&folder=<title>;
+		.file.include=LongRoad.java, Vehicle.java, Car.java, Truck.java, Batmobile.java, ImageUtils.java, LongRoadTester.java;
+	}
+}
+CS161_C_F12
+{	
+  Hwk8
+	{
+		.transport=http://babbage.pugetsound.edu/jross/161c/acceptFiles.php?identity=<field:Username=username>&pwd=<password:Super Secret Code>&folder=<title>;
+		.file.include=LongRoad.java, Vehicle.java, Car.java, Truck.java, Batmobile.java, ImageUtils.java, LongRoadTester.java;
+	}
+}

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Insulter()
+comment0.text=\n\ This\ is\ the\ constructor.\ It\ is\ really\ the\ 'mainline'\ for\ the\ program.\ \n\ It\ initializes\ data\ members\ and\ then\ calls\ the\ other\ methods\ to\ load\ the\ data,\n\ generate\ insults\ and\ exit.\n
+comment1.params=
+comment1.target=void\ loadData()
+comment1.text=\n\ This\ loads\ the\ vocabulary\ from\ a\ text\ file\ into\ the\ three\ lists\ of\ words\n
+comment2.params=
+comment2.target=int\ showInsult()
+comment2.text=\n\ This\ displays\ an\ insult\n
+comment3.params=
+comment3.target=int\ showGreeting()
+comment3.text=\n\ This\ is\ a\ little\ greeting\ to\ the\ user\ when\ the\ program\ starts\n
+comment4.params=
+comment4.target=void\ goodBye()
+comment4.text=\n\ This\ says\ good-bye\ when\ the\ program\ ends\n
+numComments=5

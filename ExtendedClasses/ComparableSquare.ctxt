@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ComparableSquare()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ComparableSquare\n
+comment1.params=square2
+comment1.target=int\ compareTo(ComparableSquare)
+comment1.text=\n\ Comparing\ the\ size\ of\ two\ square\ objects\n\ @return\ \ size\ of\ the\ squares\n
+numComments=2

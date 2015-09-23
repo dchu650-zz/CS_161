@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SearchPlayground()
+comment0.text=\n\ Creates\ a\ new\ SearchPlayground\ object.\n
+comment1.params=n
+comment1.target=boolean\ inList(int)
+comment2.params=
+comment2.target=int\ largest()
+comment3.params=
+comment3.target=int\ smallest()
+comment4.params=
+comment4.target=int\ secondSmallest()
+comment5.params=
+comment5.target=void\ printNums()
+comment5.text=\n\ Print\ the\ array\ of\ numbers\ (all\ on\ one\ line,\ comma\ separated)\n
+numComments=6

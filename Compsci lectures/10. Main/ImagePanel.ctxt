@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ImagePanel()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ImagePanel\n
+comment1.params=b
+comment1.target=void\ showImage(java.awt.image.BufferedImage)
+comment1.text=\ \n\ shows\ the\ image\n\ @param\ b\ the\ buffered\ image\ to\ show\n
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment2.text=\n\ overrides\ the\ paintComponent\ of\ JPanel\n
+numComments=3

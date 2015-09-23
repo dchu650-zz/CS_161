@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RobotTester()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ RobotTester\n
+comment1.params=
+comment1.target=void\ testTurn()
+comment1.text=\n\ \ Test\ the\ turnRight()\ method\ \n
+comment2.params=
+comment2.target=void\ testStart()
+comment2.text=\n\ Test\ the\ turnOn()\ method\n\ \n
+comment3.params=
+comment3.target=void\ testStop()
+comment3.text=\n\ Test\ the\ turnOff()\ method\n\ \n
+comment4.params=
+comment4.target=void\ testTurnWithStartAndStop()
+comment4.text=\n\ More\ complicated\ test\ to\ check\ turning\ when\ motor\ is\ on\ or\ off\n\ \n
+comment5.params=
+comment5.target=void\ testTurnInCircle()
+comment5.text=\ \n\ test\ turning\ in\ complete\ circle\n\ \n
+comment6.params=
+comment6.target=void\ testMove()
+comment6.text=\n\ More\ complicated\ test\ to\ check\ moving\ when\ motor\ is\ on\ or\ off\n\ \n
+numComments=7

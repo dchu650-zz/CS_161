@@ -1,0 +1,16 @@
+CS161_B_F12
+{    
+	Final
+	{
+		.transport=http://babbage.pugetsound.edu/jross/161b/acceptFiles.php?identity=<field:Username=username>&pwd=<password:Super Secret Code>&folder=<title>;
+		.file.include=Sliceable.java, Pizza.java, SnoreCounting.java, Mystery.java, Suspect.java, Weapon.java, MysteryTester.java, StarSpinnerPanel.java, StarSpinnerFrame.java;
+	}
+}
+CS161_C_F12
+{	
+  Final
+	{
+		.transport=http://babbage.pugetsound.edu/jross/161c/acceptFiles.php?identity=<field:Username=username>&pwd=<password:Super Secret Code>&folder=<title>;
+		.file.include=Sliceable.java, Pizza.java, SnoreCounting.java, Mystery.java, Suspect.java, Weapon.java, MysteryTester.java, StarSpinnerPanel.java, StarSpinnerFrame.java;
+	}
+}

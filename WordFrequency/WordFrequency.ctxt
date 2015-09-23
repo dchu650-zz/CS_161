@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WordFrequency()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ WordFrequency\n
+comment1.params=lines
+comment1.target=void\ buildWordFrequencyList(java.util.ArrayList)
+comment1.text=\n\ \ Builds\ a\ hashmap\ of\ words\ from\ lines\ of\ text.\ \n\ \ This\ method\ must\ be\ invoked\ before\ any\ other\ methods\ in\ this\ class\ can\ be\ invoked.\n\ \ @param\ lines\ lines\ of\ text\ \n
+comment2.params=
+comment2.target=int\ findMaximumFrequency()
+comment2.text=\n\ Find\ the\ maximum\ frequency\ in\ the\ hashmap\n\ @return\ the\ maximum\ frequency\n
+comment3.params=
+comment3.target=java.util.ArrayList\ findMaximumFrequencyWords()
+comment3.text=\n\ Return\ a\ list\ of\ words\ having\ the\ maximum\ frquency\n\ @return\ a\ list\ of\ words\ having\ maximum\ frequency\n
+comment4.params=word
+comment4.target=int\ findWordFrequency(java.lang.String)
+comment4.text=\n\ Find\ the\ frequency\ of\ a\ paritcular\ word\ in\ the\ hashmap\n\ @param\ word\ word\ in\ the\ hashmap\n\ @return\ the\ frequency\ of\ the\ word\n
+comment5.params=minimum
+comment5.target=java.util.ArrayList\ findWords(int)
+comment5.text=\n\ Return\ a\ list\ of\ words\ having\ a\ given\ frequency\ or\ more\n\ @param\ minimum\ list\ of\ words\ at\ a\ given\ frequency\ or\ more\n\ @return\ a\ list\ of\ words\n
+numComments=6

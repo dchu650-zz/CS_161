@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=ints\ target
+comment0.target=void\ checksToFind(int[],\ int)
+comment0.text=\n\ Write\ a\ method\ called\ \ \ checksToFind()\ \ \ \ that\ takes\ in\ an\ array\ of\ ints\ as\ an\ \n\ argument\ AND\ a\ target\ number\ as\ a\ argument.\ The\ method\ searches\ the\ array\ for\ the\ \n\ target,\ and\ _prints_\ both\ whether\ it\ found\ the\ number\ and\ how\ many\ items\ the\ search\ looked\ \n\ at.\ (We\ don't\ need\ to\ return\ anything)\n
+comment1.params=
+comment1.target=PracticeProblem()
+comment2.params=size
+comment2.target=int[]\ randomNumberList(int)
+comment2.text=\n\ Makes\ an\ array\ of\ random\ numbers\ with\ the\ given\ size.\ Maximum\ value\ is\ 10*size\n
+comment3.params=nums
+comment3.target=void\ printIntArray(int[])
+comment3.text=\n\ Print\ the\ array\ of\ numbers\ (all\ on\ one\ line,\ comma\ separated)\n
+numComments=4

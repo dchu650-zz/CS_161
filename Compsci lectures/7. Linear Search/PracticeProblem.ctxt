@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=ints
+comment0.target=boolean\ allSame(int[])
+comment0.text=\n\ Write\ a\ method\ called\ \ \ allSame()\ \ \ \ that\ takes\ in\ an\ array\ of\ ints\ as\ an\ argument,\ \n\ and\ returns\ whether\ every\ item\ in\ the\ array\ is\ the\ same\ (i.e.,\ if\ the\ array\ is\ all\ \n\ 1s,\ all\ 2s,\ all\ 101s,\ etc.)\n
+comment1.params=
+comment1.target=PracticeProblem()
+comment2.params=nums
+comment2.target=void\ printIntArray(int[])
+comment2.text=\n\ Print\ the\ array\ of\ numbers\ (all\ on\ one\ line,\ comma\ separated)\n
+numComments=3

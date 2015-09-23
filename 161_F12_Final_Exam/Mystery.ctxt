@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Mystery()
+comment0.text=\n\ Creates\ a\ new\ Mystery\ object,\ simulating\ a\ murder\ mystery.\n\ This\ sets\ up\ a\ list\ of\ suspects,\ has\ the\ crime\ get\ committed,\ then\ finds\ and\ reveals\ the\ criminal.\n
+comment1.params=
+comment1.target=void\ commitCrime()
+comment1.text=\n\ A\ crime\ occurs\!\n\ This\ method\ chooses\ the\ murder\ and\ the\ victim.\ It\ tracks\ the\ weapon\ used,\ and\ reports\ the\ crime.\n
+comment2.params=
+comment2.target=Suspect\ findMurderer()
+comment2.text=\n\ Figure\ out\ who\ committed\ the\ crime\!\n\ This\ finds\ a\ suspect\ who\ had\ the\ murder\ weapon,\ and\ returns\ that\ suspect.\n\ @return\ The\ suspect\ who\ committed\ the\ crime.\n
+numComments=3

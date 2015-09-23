@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Truck()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Truck\n
+comment1.params=c
+comment1.target=void\ draw(Canvas)
+comment1.text=\n\ Draws\ the\ truck\ \n\ @param\ A\ canvas\ upon\ which\ the\ vehicles\ are\ drawn\n
+comment2.params=
+comment2.target=void\ drive()
+comment2.text=\n\ Moves\ the\ vehicles\ based\ on\ their\ positions\n
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GuessingGame()
+comment0.text=\n\ \n
+comment1.params=
+comment1.target=int\ getGuess()
+comment1.text=\n\ Gets\ the\ user's\ guess.\n\ @return\ the\ user's\ guess.\n
+comment2.params=guess
+comment2.target=boolean\ checkGuess(int)
+comment2.text=\n\ Checks\ the\ user's\ guess.\n\ @param\ guess\ the\ user's\ guess.\n\ @return\ true\ -\ correct\ guess,\ false\ -\ incoreect\ guess\n
+comment3.params=difference
+comment3.target=void\ hotOrCold(int)
+comment3.text=\n\ \n
+comment4.params=
+comment4.target=void\ playGame()
+comment4.text=\n\ plays\ the\ game.\n
+numComments=5

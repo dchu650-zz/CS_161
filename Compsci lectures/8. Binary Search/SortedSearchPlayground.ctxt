@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SortedSearchPlayground()
+comment0.text=\n\ Creates\ a\ new\ SearchPlayground\ object.\n
+comment1.params=target
+comment1.target=boolean\ binarySearch(int)
+comment1.text=\n\ \n
+comment2.params=n
+comment2.target=boolean\ inList(int)
+comment2.text=\n\ Linear\ Search\ (from\ last\ time)\n
+comment3.params=
+comment3.target=void\ printNums()
+comment3.text=\n\ Print\ the\ array\ of\ numbers\ (all\ on\ one\ line,\ comma\ separated)\n
+numComments=4

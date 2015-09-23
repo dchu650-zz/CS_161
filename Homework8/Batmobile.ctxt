@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Batmobile()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Batmobile\n
+comment1.params=canvas
+comment1.target=void\ draw(Canvas)
+comment1.text=\n\ Draw\ method\ for\ the\ Batmobile\n\ @param\ A\ canvas\n
+comment2.params=
+comment2.target=void\ drive()
+comment2.text=\n\ Drive\ method\ for\ the\ batmobile\n
+comment3.params=
+comment3.target=void\ turn()
+comment3.text=\n\ Turns\ the\ car\ around\n
+numComments=4

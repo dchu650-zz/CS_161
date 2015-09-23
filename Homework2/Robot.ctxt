@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Robot(java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Robot\n
+comment1.params=
+comment1.target=void\ turnRight()
+comment1.text=\n\ Rotates\ the\ Robot\ 90\ degrees\n
+comment2.params=distance
+comment2.target=void\ moveForward(int)
+comment2.text=\n\ Moves\ Robot\ forward.\n
+comment3.params=
+comment3.target=void\ makeVisible()
+comment3.text=\n\ Makes\ the\ robot\ visible\n\ \n
+comment4.params=
+comment4.target=void\ turnOn()
+comment4.text=\n\ Turns\ on\ the\ Robot.\n
+comment5.params=
+comment5.target=void\ turnOff()
+comment5.text=\n\ Turns\ off\ the\ Robot\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Returns\ a\ statement,\ "name"\ the\ Robot.\n
+numComments=7

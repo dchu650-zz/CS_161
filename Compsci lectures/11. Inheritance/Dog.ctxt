@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=newName
+comment0.target=Dog(java.lang.String)
+comment0.text=\n\ Creates\ a\ new\ Dog\ object.\n
+comment1.params=
+comment1.target=void\ speak()
+comment2.params=
+comment2.target=void\ fetch()
+comment3.params=
+comment3.target=int\ getWeight()
+comment4.params=d
+comment4.target=int\ compareTo(Dog)
+comment5.params=
+comment5.target=void\ eatMeat()
+numComments=6

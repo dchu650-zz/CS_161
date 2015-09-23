@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PictureViewer()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ CS161PictureViewer\n
+comment1.params=
+comment1.target=void\ makeViewer()
+comment1.text=\n\ Makes\ the\ window\n
+comment2.params=
+comment2.target=void\ loadImage()
+comment2.text=\ \n\ retrieves\ a\ BufferedImage\ from\ a\ disk\ file\n\ @return\ the\ BufferedImage,\ null\ if\ user\ cancels\n\ \n
+comment3.params=im
+comment3.target=boolean\ saveImage(java.awt.image.BufferedImage)
+comment3.text=\ \n\ Saves\ a\ BufferedImage\ to\ a\ disk\ file\n\ @param\ im\ the\ BufferedImage\ to\ save\n\ @return\ true\ if\ successful,\ false\ if\ not\n\ \n
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=\n\ Handle\ events.\ We\ want\ to\ handle\ button\ clicks\n\ The\ actionPerformed\ method\ is\ required\ by\ the\ ActionListener\ interface\n\ @param\ evt\ the\ ActionEvent\ triggered\ by\ some\ outside\ event\n
+comment5.params=theImage
+comment5.target=void\ showImage(java.awt.image.BufferedImage)
+comment5.text=\ \n\ shows\ an\ image\ on\ the\ image\ panel\n
+numComments=6

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HangmanGame()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ HangmanGame\n
+comment1.params=debugWord
+comment1.target=HangmanGame(java.lang.String)
+comment1.text=\n\ Creates\ a\ new\ HangmanGame\ object,\ with\ the\ wordlist\ containing\ only\ the\ given\ debugWord.\n\ @param\ debugWord\ The\ single\ word\ in\ the\ wordlist,\ used\ for\ testing\ and\ debugging.\n
+comment2.params=letter
+comment2.target=boolean\ checkGuess(char)
+comment2.text=\n\ Checks\ to\ see\ if\ a\ given\ letter\ is\ present\ in\ the\ target\ word.\n\ @param\ Letter\ the\ letter\ being\ guessed.\n\ @return\ Whether\ or\ not\ the\ letter\ was\ found\ in\ the\ word.\n
+comment3.params=
+comment3.target=java.lang.String\ currentGuessString()
+comment3.text=\n\ Returns\ a\ String\ representation\ of\ the\ current\ guess\ state.\n\ @return\ A\ String\ displaying\ the\ current\ guess\ of\ the\ word.\ Has\ the\ form\ "g\ _\ e\ _\ _\ ".\n
+comment4.params=
+comment4.target=char\ getGuess()
+comment4.text=\n\ Prompts\ the\ user\ to\ provide\ a\ guessed\ letter.\n\ @return\ A\ single,\ lower-case\ char\ that\ the\ player\ guessed.\n
+comment5.params=
+comment5.target=void\ playGame()
+comment5.text=\n\ Plays\ a\ complete\ game\ of\ Hangman.\n
+comment6.params=
+comment6.target=void\ setupGame()
+comment6.text=\n\ Re-initializes\ variables\ for\ the\ start\ of\ a\ new\ game.\n
+numComments=7

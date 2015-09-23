@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nums
+comment0.target=void\ allDifferent(int[])
+comment0.text=\n\ Write\ a\ method\ called\ \ \ allDifferent()\ \ \ \ that\ takes\ in\ an\ array\ of\ ints\ as\ an\ argument\n\ and\ prints\ out\ (whether\ or\ not\ each\ item\ in\ the\ array\ is\ unique)\n
+comment1.params=
+comment1.target=PracticeProblem()
+comment2.params=nums
+comment2.target=void\ printNums(int[])
+comment2.text=\n\ Print\ the\ array\ of\ numbers\ (all\ on\ one\ line,\ comma\ separated)\n
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=java.awt.image.BufferedImage\ loadImage(java.lang.String)
+comment0.text=\n\ Loads\ an\ image\ from\ a\ specitic\ file\n\ @param\ The\ name\ of\ the\ image\ file\ being\ uploaded\n\ @return\ Returns\ the\ loaded\ image.\n
+comment1.params=theImage
+comment1.target=java.awt.image.BufferedImage\ mirrorImage(java.awt.image.BufferedImage)
+comment1.text=\n\ Makes\ a\ mirror\ image\ if\ the\ buffered\ image\n\ @param\ The\ image\ that\ has\ been\ loaded\n\ @return\ Returns\ mirror\ image\ of\ the\ buffered\ image.\n
+numComments=2

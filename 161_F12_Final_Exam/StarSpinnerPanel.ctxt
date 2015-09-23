@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StarSpinnerPanel()
+comment0.text=\n\ Creates\ an\ image\ of\ a\ Star\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\n\ A\ method\ that\ paints\ the\ image\ of\ the\ Star\ and\ displays\ it\ in\ a\ blue\ background.\n\ @param\ Graphics\ g\ parameter\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\n\ An\ ActionListener\ method\ that\ takes\ the\ timer\ into\ account\ in\ order\ to\ set\ a\ speed.\n\ @param\ ActionEvent\ e\ parameter\n
+comment3.params=e
+comment3.target=void\ actionPerformedButton(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ startSpinning()
+comment4.text=\n\ A\ method\ that\ starts\ the\ timer.\n\ When\ the\ timer\ stars,\ the\ action\ will\ perform.\n
+numComments=5

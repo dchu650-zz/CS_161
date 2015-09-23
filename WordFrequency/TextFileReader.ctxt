@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.util.ArrayList\ readLines()
+comment0.text=\ \n\ Reads\ a\ text\ file\ and\ break\ it\ into\ lines\n\ @return\ the\ lines\ read\ from\ the\ file\n\ \n
+numComments=1

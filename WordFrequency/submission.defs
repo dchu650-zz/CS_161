@@ -1,0 +1,81 @@
+/** File: submission.defs
+    Author: Chuck Hommel
+    Date: 2011.05.13
+
+	This is a BlueJ configuration file for the Submitter extension
+    This file is specific to a particular assignment, so it should reside
+    in the project folder. This overrides other submission.defs file residing
+	in the BlueJ folder and/or in the user profile.
+	Some sketchy documentation can be found below.
+
+
+/** top level name of scheme */
+CS161AAF12
+{	/** top level directory
+        next level will be the scheme shown below
+        next level directory will be the user name                        
+        So the final directory structure will be something like
+        CS161xxxx/Assignment1/<username>
+        ************** NOTE THAT FILE NAMES ARE CASE SENSITIVE *****************
+	*/	
+    // each line below is a 'scheme'
+    LabG
+	{
+		.transport=http://babbage.pugetsound.edu/azshahriar/acceptFiles.php?identity=<field:Username=username>&pwd=<password:Super Secret Code>&folder=<title>;
+		.file.include=WordFrequency.java;              // files to submit
+	}
+}
+CS161BAF12
+{	/** top level directory
+        next level will be the scheme shown below
+        next level directory will be the user name                        
+        So the final directory structure will be something like
+        CS161xxxx/Assignment1/<username>
+        ************** NOTE THAT FILE NAMES ARE CASE SENSITIVE *****************
+	*/	
+    // each line below is a 'scheme'
+    LabG
+	{
+		.transport=http://babbage.pugetsound.edu/hommel/acceptFiles.php?identity=<field:Username=username>&pwd=<password:Super Secret Code>&folder=<title>;
+		.file.include=WordFrequency.java;              // files to submit
+	}
+}
+CS161CAF12
+{	/** top level directory
+        next level will be the scheme shown below
+        next level directory will be the user name                        
+        So the final directory structure will be something like
+        CS161xxxx/Assignment1/<username>
+        ************** NOTE THAT FILE NAMES ARE CASE SENSITIVE *****************
+	*/	
+    // each line below is a 'scheme'
+    LabG
+	{
+		.transport=http://babbage.pugetsound.edu/azshahriar/acceptFiles.php?identity=<field:Username=username>&pwd=<password:Super Secret Code>&folder=<title>;
+		.file.include=WordFrequency.java;              // files to submit
+	}
+}
+/**         ------ Reproduction of sketchy documentation --------
+ 	Some sketchy documentation can be found at:
+		http://www.bluej.org/extensions/submitter/submitter.html
+
+	Some examples from the site above:
+		Simple Message {
+		     .transport = message:The deadline for this assessment has passed;
+		}
+
+		Submission by http to a public test script {
+    		    .file.include=*.java;
+   		    .transport=http://www.cs.kent.ac.uk/projects/bluej/submit.php?identity=<field:Username=username>&pwd=<password:PIN>;
+		}
+
+		Submission by email {
+  		   .file.include=*.java;
+                   .transport=mailto:co610@kent.ac.uk?body=<area:Message>;
+		}
+
+		Store Files in C:\Temp {
+   		    .file.include=*.java;
+                   .transport=file:C:/Temp/;
+		}
+*/

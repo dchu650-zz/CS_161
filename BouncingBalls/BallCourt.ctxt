@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BallCourt()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ BallCourt\n
+comment1.params=
+comment1.target=void\ addBall()
+comment1.text=\n\ \n
+comment2.params=time
+comment2.target=void\ moveBalls(int)
+comment2.text=\n\ Moves\ the\ ball\ on\ the\ ballcourt\n\ @param\ time\ number\ of\ times\ to\ move\ the\ balls\n
+numComments=3

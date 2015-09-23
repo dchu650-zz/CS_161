@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CatFinder()
+comment1.params=myLostCat
+comment1.target=void\ setLostCat(Cat)
+comment2.params=
+comment2.target=Cat\ getLostCat()
+comment3.params=newCat
+comment3.target=void\ findCat(Cat)
+numComments=4

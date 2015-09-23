@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ slicePizza()
+comment0.text=\n\ The\ method\ slices\ a\ piece\ of\ pizza\n\ @return\ Returns\ whether\ the\ piece\ of\ pizza\ is\ sliceable\ or\ not\ and\ how\ many\ slices\ it\ can\ make.\n
+numComments=1

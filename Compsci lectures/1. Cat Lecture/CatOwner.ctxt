@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=myCat
+comment0.target=CatOwner(Cat)
+comment0.text=\n\ Constructor\ for\ CatOwner\ object.\ Takes\ in\ a\ Cat\ param\n
+comment1.params=
+comment1.target=Cat\ getCat()
+comment1.text=\n\ Getter\ for\ Cat\n
+comment2.params=newCat
+comment2.target=void\ setCat(Cat)
+comment2.text=\n\ Setter\ for\ Cat\n
+numComments=3

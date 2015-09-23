@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=newName
+comment0.target=Pet(java.lang.String)
+comment0.text=\n\ Creates\ a\ new\ Pet\ object.\n
+comment1.params=
+comment1.target=Pet()
+comment2.params=
+comment2.target=void\ feed()
+comment3.params=
+comment3.target=void\ play()
+comment4.params=
+comment4.target=void\ day()
+comment5.params=
+comment5.target=void\ speak()
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=game
+comment0.target=HangmanButtons(HangmanGame)
+comment0.text=\n\ Creates\ a\ new\ HangmanButtons\ object.\ This\ is\ a\ frame\ with\ buttons\ to\ press\n\ @param\ game\ The\ HangmanGame\ object\ to\ control\n
+comment1.params=evt
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment1.text=\n\ Handle\ events\ (e.g.,\ button\ clicks)\n\ The\ actionPerformed\ method\ is\ required\ by\ the\ ActionListener\ interface\n\ @param\ evt\ the\ ActionEvent\ triggered\ by\ some\ outside\ event\n
+numComments=2

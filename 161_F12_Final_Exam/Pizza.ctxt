@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pizza()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Pizza\n
+comment1.params=
+comment1.target=void\ slicePizza()
+comment1.text=\nThe\ method\ slices\ a\ piece\ of\ pizza\n\ @return\ Returns\ whether\ the\ piece\ of\ pizza\ is\ sliceable\ or\ not\ and\ how\ many\ slices\ it\ can\ make.\n
+numComments=2

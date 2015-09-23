@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RobotChaos()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ RobotChaos\n
+comment1.params=
+comment1.target=void\ letEmLoose()
+comment1.text=\n\ OK.\ Now\ the\ robots\ get\ to\ move\ all\ over\ the\ place.\n\ This\ method\ goes\ through\ the\ list\ of\ robots\ one\ by\ one.\n\ For\ each\ robot,\ it\ instructs\ the\ robot\ to\ turn\ right\ a\ \n\ (random)\ number\ of\ times,\ then\ to\ move\ forward\ a\ (random)\n\ number\ of\ steps.\ This\ method\ does\ not\ change\ the\ state\n\ of\ the\ robot\ motors.\n
+numComments=2
